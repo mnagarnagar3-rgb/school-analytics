@@ -1,0 +1,6 @@
+pandas
+plotly
+openpyxl
+xlsxwriter
+fpdf2
+google-generativeai
